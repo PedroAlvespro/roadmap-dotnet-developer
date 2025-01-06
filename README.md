@@ -1,6 +1,6 @@
 <h1>
-# roadmap-dotnet-developer
-roadmap que norteia meus estudos como desenvolvedor backend .net
+ <strong>  roadmap-dotnet-developer </strong> <br>
+Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
 </h1>
 
 
