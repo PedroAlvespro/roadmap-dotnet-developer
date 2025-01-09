@@ -71,6 +71,12 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
   - Documentar endpoints usando **Swagger**.
   - Configurar retornos HTTP adequados (201 Created, 404 Not Found, etc.).
  
+  - **CRUD Completo com API**:
+  - Arquitetura Limpa
+  - MVC
+  - Ciração de Api completa
+
+ 
   #### **4. Ferramentas e Boas Práticas**
 - **LINQ Avançado**:
   - Consultas complexas.
