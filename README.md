@@ -1,10 +1,9 @@
 <h1>
  <strong>  roadmap-dotnet-developer </strong> <br>
-Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
+Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
 </h1>
 
-
-#### **0. Dominando o CSharp**
+#### **1. Dominando o CSharp**
 - **Csharp básico**:
   - Teoria da linguagem C#.
   - Sintaxe do c#.
@@ -12,24 +11,7 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
   - Boas prática do .net.
   - Aplicações de Console.
 
-#### **1. Backend Avançado**
-- **ASP.NET Core Avançado**:
-  - Middleware personalizado.
-  - Dependency Injection (DI) avançado.
-  - Filtragem e paginação em APIs.
-  - Versionamento de APIs.
-  - Rate limiting (limitação de requisições).
-
-- **Autenticação e Autorização**:
-  - JWT + Refresh Tokens.
-  - IdentityServer (OpenID Connect e OAuth2).
-  - Claims e políticas de autorização.
-  - Segurança com **OWASP**: Validar inputs, proteger contra XSS, CSRF, SQL Injection, etc.
-
-- **APIs Restful e GraphQL**:
-  - Criar APIs RESTful robustas.
-  - Implementar GraphQL com **HotChocolate** ou outras bibliotecas.
-
+  
 #### **2. Bancos de Dados e Arquitetura de Dados**
 - **Banco de Dados**:
   - Desenvolvimento com Banco de Dados básico.
@@ -49,32 +31,38 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
   - Normalização vs. desnormalização.
   - Projeto de esquemas escaláveis.
   - Event Sourcing e CQRS.
+
  
 #### **3. Dominando o CRUD**
-- **Teoria do CRUD**:
+- **Crud Básico**:
   - Entender o conceito de operações **Create, Read, Update e Delete**.
 
-- **Implementação Básica**:
-  - Criar CRUD em **aplicações de console** como ponto de partida.
-  
 - **Boas Práticas no CRUD**:
   - Seguir princípios de **SOLID**.
   - Validação e sanitização de dados antes de interagir com o banco.
     
-- **CRUD com Entity Framework**:
+- **CRUD com Entity Framework, Asp.Net e Asp.Net Core**:
   - Configurar e integrar o **EF Core** em projetos.
+  - O que é Asp.Net e Asp.Net Core.
+  - Configurações do Asp.Net e Asp.Net Core.
   - Operações básicas com `DbContext` e LINQ.
   - Tratamento de exceções e erros.
-
+    
+- **Autenticação e Autorização**:
+  - JWT + Refresh Tokens.
+  - IdentityServer (OpenID Connect e OAuth2).
+  - Claims e políticas de autorização.
+  - Segurança com **OWASP**: Validar inputs, proteger contra XSS, CSRF, SQL Injection, etc.
+    
 - **CRUD Completo com API**:
   - Criar APIs RESTful em **ASP.NET Core** para expor operações CRUD.
   - Documentar endpoints usando **Swagger**.
   - Configurar retornos HTTP adequados (201 Created, 404 Not Found, etc.).
- 
-  - **CRUD Completo com API**:
-  - Arquitetura Limpa
-  - MVC
-  - Ciração de Api completa
+  - Versionamento de APIs.
+  - Filtragem e paginação em APIs.
+  - Middleware personalizado.
+  - Dependency Injection (DI) avançado.
+  - Rate limiting (limitação de requisições).
 
  
   #### **4. Ferramentas e Boas Práticas**
@@ -98,19 +86,21 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
   - Aplicação de conceitos do livro "Clean Code".
   - Reduzir código duplicado, melhorar legibilidade e simplicidade.
 
+
 #### **5. Arquitetura de Software**
 - **Padrões de Projeto**:
   - Singleton, Factory, Repository, Unit of Work.
   - Padrões arquiteturais como CQRS, DDD (Domain-Driven Design) e Event-Driven Architecture.
 
+- **Clean Architecture**:
+  - Separação de camadas: Application, Domain, Infrastructure, Presentation.
+  - Boas práticas de modularidade e testes.
+
 - **Microsserviços**:
   - Criação de microsserviços com **ASP.NET Core**.
   - Comunicação entre microsserviços: gRPC, RabbitMQ, Kafka.
   - Desafios em microsserviços: consistência eventual, resiliência (Polly), e observabilidade.
-
-- **Clean Architecture**:
-  - Separação de camadas: Application, Domain, Infrastructure, Presentation.
-  - Boas práticas de modularidade e testes.
+    
 
 #### **6. DevOps e Deployment**
 - **Automação e CI/CD**:
@@ -126,6 +116,7 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
   - Monitoring: Application Insights, Grafana, Prometheus.
   - Distributed Tracing com OpenTelemetry.
 
+
 #### **7. Cloud Computing**
 - **Azure** (ou outras clouds como AWS, GCP):
   - Serviços gerenciados: Azure Functions, Logic Apps.
@@ -136,10 +127,21 @@ Guia de desenvolvmento com dotnet que norteia meus estudos como desenvolvedor ba
 - **Serverless**:
   - Azure Functions para tarefas assíncronas.
   - Event Grid e Service Bus para mensagens e eventos.
+
+
 <br> <br>
+
+
+ - ### **Créditos** ## :
+ - [JoseCarlosMacoratti](https://www.youtube.com/@josecarlosmacoratti)
+ - Apostilas, e Livros Online, como Arquitetura Limpa e Código Limpo, ambos do Robert C. Martin.
+ - Código de colegas da Universidade.
+ - Compartilhar conhecimento (Ensinar é a melhor forma de aprender)
+ - Orientação no trabalho como estagiário, de Lucas Noronha e Ricardo Noronha.
+   
+
 <foot>
-  Esse Roadmap leva aproximadamente 1 ano para ser estudado, logo, como paralelo à universidade, sempre me dediquei bastante para manter o ritmo e rendimento, tendo em vista a necessidade de ter tais conhecimentos,
-  para evoluir como desenvolvedor de software dotnet.
+  Esse Roadmap leva aproximadamente 2 anos para ser estudado completamente e profundamente, logo, como paralelo à universidade, sempre me dediquei bastante para manter o ritmo e rendimento, tendo em vista a necessidade de ter tais conhecimentos, para evoluir como  **desenvolvedor de software dotnet.**
 </foot>
 
 
