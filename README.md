@@ -138,7 +138,8 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
  - Código de colegas da Universidade.
  - Compartilhar conhecimento (Ensinar é a melhor forma de aprender)
  - Orientação no trabalho como estagiário, de Lucas Noronha e Ricardo Noronha.
-   
+   <br> <br>
+
 
 <foot>
   Esse Roadmap leva aproximadamente 2 anos para ser estudado completamente e profundamente, logo, como paralelo à universidade, sempre me dediquei bastante para manter o ritmo e rendimento, tendo em vista a necessidade de ter tais conhecimentos, para evoluir como  **desenvolvedor de software dotnet.**
