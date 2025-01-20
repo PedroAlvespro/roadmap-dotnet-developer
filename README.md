@@ -38,7 +38,10 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
   - Poo com CSharp.
   - Boas prática do .net.
   - Aplicações de Console.
-
+    
+- **Collections**:
+  - Generics
+  - Linq
 
 #### **2. Bancos de Dados e Arquitetura de Dados**
 - **Banco de Dados**:
@@ -160,6 +163,7 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
 
  - ### **Créditos** ## :
  - [JoseCarlosMacoratti](https://www.youtube.com/@josecarlosmacoratti)
+ - [balta.io](https://www.youtube.com/@baltaio)
  - Apostilas, e Livros Online, como Arquitetura Limpa e Código Limpo, ambos do Robert C. Martin e Fundamentos de Estruturas de Dados, de Waldemar Celes e da SBC.
  - Código de colegas da Universidade, Repositórios do Github.
  - Compartilhar conhecimento (Ensinar é a melhor forma de aprender)
