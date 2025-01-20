@@ -3,6 +3,17 @@
 Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
 </h1>
 
+<br> <br>
+
+### Algumas das tecnologias que serão trabalhadas : 
+<div style="display: inline_block"><br>
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt="mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</div>
+<br>
+ 
 #### **1. Dominando o CSharp**
 - **Csharp básico**:
   - Teoria da linguagem C#.
@@ -11,7 +22,7 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
   - Boas prática do .net.
   - Aplicações de Console.
 
-  
+
 #### **2. Bancos de Dados e Arquitetura de Dados**
 - **Banco de Dados**:
   - Desenvolvimento com Banco de Dados básico.
@@ -21,11 +32,6 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
 - **Otimização de Banco de Dados**:
   - Índices, particionamento, e tuning de consultas SQL.
   - NoSQL (MongoDB, Redis, etc.) para casos específicos.
-
-- **Entity Framework Core Avançado**:
-  - Manipulação avançada com `IQueryable`.
-  - Migrações complexas.
-  - Customização de mapeamentos e performance.
 
 - **Design de Bancos e Arquitetura de Dados**:
   - Normalização vs. desnormalização.
@@ -47,6 +53,11 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
   - Configurações do Asp.Net e Asp.Net Core.
   - Operações básicas com `DbContext` e LINQ.
   - Tratamento de exceções e erros.
+        
+- **Entity Framework Core Avançado**:
+  - Manipulação avançada com `IQueryable`.
+  - Migrações complexas.
+  - Customização de mapeamentos e performance.
     
 - **Autenticação e Autorização**:
   - JWT + Refresh Tokens.
@@ -128,9 +139,7 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
   - Azure Functions para tarefas assíncronas.
   - Event Grid e Service Bus para mensagens e eventos.
 
-
 <br> <br>
-
 
  - ### **Créditos** ## :
  - [JoseCarlosMacoratti](https://www.youtube.com/@josecarlosmacoratti)
@@ -139,7 +148,6 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
  - Compartilhar conhecimento (Ensinar é a melhor forma de aprender)
  - Orientação no trabalho como estagiário, de Lucas Noronha e Ricardo Noronha, na empresa Trimap.ltda.
    <br> <br>
-
 
 <foot>
   Esse Roadmap leva aproximadamente 2 anos para ser estudado completamente e profundamente, logo, como paralelo à universidade, sempre me dediquei bastante para manter o ritmo e rendimento, tendo em vista a necessidade de ter tais conhecimentos, para evoluir como  **desenvolvedor de software dotnet.**
