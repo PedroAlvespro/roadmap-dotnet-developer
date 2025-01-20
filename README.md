@@ -1,5 +1,5 @@
 <h1>
- <strong>  roadmap-dotnet-developer </strong> <br>
+ <strong> roadmap-dotnet-developer</strong> <img align="center" alt="cSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br>
 Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
 </h1>
 
@@ -134,10 +134,10 @@ Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos co
 
  - ### **Créditos** ## :
  - [JoseCarlosMacoratti](https://www.youtube.com/@josecarlosmacoratti)
- - Apostilas, e Livros Online, como Arquitetura Limpa e Código Limpo, ambos do Robert C. Martin.
- - Código de colegas da Universidade.
+ - Apostilas, e Livros Online, como Arquitetura Limpa e Código Limpo, ambos do Robert C. Martin e Fundamentos de Estruturas de Dados, de Waldemar Celes e da SBC.
+ - Código de colegas da Universidade, Repositórios do Github.
  - Compartilhar conhecimento (Ensinar é a melhor forma de aprender)
- - Orientação no trabalho como estagiário, de Lucas Noronha e Ricardo Noronha.
+ - Orientação no trabalho como estagiário, de Lucas Noronha e Ricardo Noronha, na empresa Trimap.ltda.
    <br> <br>
 
 
