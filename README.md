@@ -1,6 +1,6 @@
 <h1>
  <strong> roadmap-dotnet-developer</strong> <img align="center" alt="cSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br>
-Guia de Estudos de desenvolvmento BackEnd com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
+Guia de Estudos de desenvolvimento BackEnd com dotnet que norteia meus estudos como desenvolvedor backend .net :globe_with_meridians:
 </h1>
 
 <br> <br>
